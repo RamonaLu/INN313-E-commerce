@@ -1,2 +1,2 @@
-INN313-E-commnerce
+INN313-E-commerce
 ==================
